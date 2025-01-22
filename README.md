@@ -1,10 +1,10 @@
 #💫 About Me:
-🔭 I’m currently working on React.js, Node.js, and Flutter.
-👯 I’m looking to collaborate on web and mobile development projects.
-🤝 I’m seeking help with scaling projects and optimizing ad revenue strategies.
-🌱 I’m currently learning Material-UI, Ant Design, and advanced Node.js concepts.
-💬 Ask me about front-end, back-end, and app development.
-⚡ Fun fact: I build apps with zero investment and monetize them solely through ads
+🔭 I’m currently working on React.js, Node.js, and Flutter.</br/>
+👯 I’m looking to collaborate on web and mobile development projects.</br/>
+🤝 I’m seeking help with scaling projects and optimizing ad revenue strategies.</br/>
+🌱 I’m currently learning Material-UI, Ant Design, and advanced Node.js concepts.</br/>
+💬 Ask me about front-end, back-end, and app development.</br/>
+⚡ Fun fact: I build apps with zero investment and monetize them solely through ads</br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ranjith.jsx?igsh=ZnhzdWo1cjU3cDJh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranjith-kumar-5b994b267/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@BRKFFYT) 
